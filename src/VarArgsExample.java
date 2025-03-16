@@ -1,4 +1,4 @@
-class VarArgsExample {
+ public class VarArgsExample {
     void display(int... numbers) {  // 'numbers' is a varargs parameter
         System.out.println("Number of arguments: " + numbers.length);
         for (int num : numbers) {
