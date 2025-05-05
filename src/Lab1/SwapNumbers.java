@@ -1,16 +1,15 @@
 package Lab1;
 
-import java.util.Scanner;
+import org.w3c.dom.ls.LSOutput;
+
 public class SwapNumbers {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Enter two numbers: ");
-        int a = sc.nextInt();
-        int b = sc.nextInt();
-        a = a + b;
-        b = a - b;
-        a = a - b;
-        System.out.println("Swapped values: " + a + " " + b);
-        sc.close();
+    public static void main(String[] args){
+        int a=4;
+        int b=7;
+        a=a+b;
+        b=a-b;
+        a=a-b;
+        System.out.println("a="+a+" and b="+b);
     }
+
 }
