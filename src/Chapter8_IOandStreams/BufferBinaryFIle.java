@@ -11,7 +11,8 @@ public class BufferBinaryFIle {
     public static void main(String[] args) {
         String path = "D:\\Java.AK";
         try (
-                BufferedInputStream br = new BufferedInputStream(new FileInputStream(path + "\\new.txt")); BufferedOutputStream bw = new BufferedOutputStream(new FileOutputStream(path + "\\one.txt"));) {
+                BufferedInputStream br = new BufferedInputStream(new FileInputStream(path + "\\new.txt"));
+                BufferedOutputStream bw = new BufferedOutputStream(new FileOutputStream(path + "\\one.txt"));) {
             byte[] buffer = new byte[8192];
             int bytesRead;
             while ((bytesRead = br.read(buffer)) != -1) {

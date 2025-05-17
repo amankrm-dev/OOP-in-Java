@@ -10,7 +10,7 @@ public class GUITest{
         JPanel jp = new JPanel();
         JLabel label = new JLabel("Enter two numbers");
         JTextField field1 = new JTextField(10);
-        JTextField field2 = new JTextField(2);
+        JTextField field2 = new JTextField(10);
         JCheckBox checkboxM= new JCheckBox("Male");
         JCheckBox checkboxF = new JCheckBox("Female");
         JButton button = new JButton("Submit");
@@ -36,14 +36,13 @@ public class GUITest{
 
         //adding all
         jp.add(label);
-        jp.add(label);
         jp.add(field1);
         jp.add(field2);
         jp.add(checkboxM);
         jp.add(checkboxF);
         jp.add(button);
         jf.add(jp);
-        jf.setSize(300, 200);
+        jf.setSize(400, 400);
         jf.setLocationRelativeTo(null);
         jf.setVisible(true);
     }

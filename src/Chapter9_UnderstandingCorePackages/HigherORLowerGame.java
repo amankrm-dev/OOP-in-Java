@@ -27,6 +27,7 @@ public class HigherORLowerGame {
         }
         if(life==0){
             System.out.println("You Lose! THe correct number was: "+answer);
+
         }
         
     }
