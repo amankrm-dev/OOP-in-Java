@@ -1,0 +1,61 @@
+
+Name: Aman Kumar
+Address: Hetauda
+Gender: Male
+DOB: 1-Jan-2000
+---------------------
+Name: Ankit Chimariya
+Address: Hetauda
+Gender: Male
+DOB: 1-Jan-2000
+---------------------
+Name: Vikram
+Address: Kathmandu
+Gender: Male
+DOB: 1-Jan-1999
+---------------------
+Name: Riyaz
+Address: Lalitpur
+Gender: Male
+DOB: 1-Jan-2002
+---------------------
+Name: Rolex
+Address: Bangalore
+Gender: Male
+DOB: 1-Jan-1996
+---------------------
+Name: Sandipa
+Address: London
+Gender: Female
+DOB: 1-Jan-2004
+---------------------
+Name: Mejina
+Address: Paris
+Gender: Female
+DOB: 1-Jan-2004
+---------------------
+Name: Aadarsha
+Address: UK
+Gender: Male
+DOB: 1-Jan-2001
+---------------------
+Name: AKM
+Address: HTD
+Gender: Male
+DOB: 1-Jan-1995
+---------------------
+Name: Sandipa kuwar
+Address: KTM
+Gender: Female
+DOB: 1-Jan-1995
+---------------------
+Name: Mejina
+Address: htd
+Gender: Female
+DOB: 1-Jan-1995
+---------------------
+Name: Riyaz
+Address: htd
+Gender: Male
+DOB: 1-Jan-1995
+---------------------
