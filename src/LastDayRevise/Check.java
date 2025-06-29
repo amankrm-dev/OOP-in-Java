@@ -11,7 +11,7 @@ public class Check {
         } else if(ch>='0' && ch<='9') {
             System.out.println("You entered a number.");
         } else {
-            System.out.println("You entered a symbol.");
+            System.out.println("You entered a symbol. ");
         }
 
     }

@@ -59,3 +59,8 @@ Address: htd
 Gender: Male
 DOB: 1-Jan-1995
 ---------------------
+Name: Rolex
+Address: Bangalore
+Gender: Male
+DOB: 1-Jan-1995
+---------------------
