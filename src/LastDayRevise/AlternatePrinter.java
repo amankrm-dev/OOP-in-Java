@@ -1,7 +1,5 @@
 package LastDayRevise;
 
-import javax.xml.crypto.dsig.spec.XSLTTransformParameterSpec;
-
 class NameCoordinator{
     private boolean firstTurn=true;
     public synchronized void printFirstName(String name) throws InterruptedException{
